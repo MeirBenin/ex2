@@ -1,8 +1,6 @@
 Exercise 2 - Function Calculator.
 
-Student submitting details:
-David Nyssen 207092511
-Meir Benin 315351031
+
 Exercise description:
 In this exercise a function calculator is implemented that allows the addition and programming of new functions to the calculator.
 
